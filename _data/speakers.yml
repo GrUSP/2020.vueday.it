@@ -93,3 +93,11 @@ list:
 #    first_name: Patryk
 #    last_name: Tomczyk
 #    twitter: tomczykpatryk    
+  -
+    id: filip-rakowski
+    description: >
+      CTO & Co-founder @ Vue Storefront
+    image: filip-rakowski.jpg
+    first_name: Filip
+    last_name: Rakowski
+    twitter: filrakowski

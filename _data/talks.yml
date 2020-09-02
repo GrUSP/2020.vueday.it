@@ -65,3 +65,22 @@
     bi-directional locale visualizations, how colors, iconography, and emojis can be perceived differently in distinct
     cultures, as well as mapping and cartography for a global audience.
 
+-
+  speaker_id: filip-rakowski
+  title: Rebuilding Vue Storefront - biggest eCommerce Vue project with Composition API
+  extract: >
+    We created Vue Storefront for one purpose - to simplify eCommerce frontend development and make it enjoyable.
+    We wanted to create a single framework for all major eCommerce platforms that will allow developers to work with
+    modern tech stack and enjoyable APIs no matter which platform they're using.  We came a long way to achieve that goal.
+    Started 3 years ago as all-in-one heavy-weight solution with our own plugin system, Redis caching, custom Server
+    Side Rendering, and specific deployment strategies. It was a major simplification over typical eCommerce frontend
+    but still far from the Developer Experience of modern frontend tooling.
+    At the end of last year, we decided to do a rewrite of a whole platform and base it on Composition API and Nuxt.js...
+    and the effect was far beyond our expectations! We managed to drastically simplify our APIs, cut down the public
+    API surface more than 70%, and make the framework much more flexible, fitting in almost any environment from a
+    large-scale eCommerce project to a simple product widget on a private website. If that sounds to you like a pitchy
+    catchphrase from a landing page you're absolutely right - except its's truth!
+    It wasn't sunshine and rainbows though - we were one of the first large-scale projects in the world to implement
+    Composition API in Nuxt and we had to deal with a lot of early adopters issues.
+    If you're curious how we used Nuxt and Composition API to simplify Vue Storefront and what challenges we faced don't
+    miss my talk! I guarantee a lot of meat and interesting use cases!
