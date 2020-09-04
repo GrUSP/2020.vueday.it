@@ -81,3 +81,8 @@ list:
     name: Vue.js Vienna
     image: vuejs-vienna.svg
     site: https://www.vuejs-vienna.org/#/
+
+  -
+    name: workshops.de
+    image: workshops-de.svg
+    site: https://workshops.de/
