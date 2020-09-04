@@ -7,3 +7,4 @@ _site/
 *.log
 gulpfile.js
 node_modules
+.jekyll-cache/
